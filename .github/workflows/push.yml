@@ -11,5 +11,5 @@ on:
 jobs:
   coverage:
     uses: phpolar/github-workflows/.github/workflows/coverage.yml@v1
-  os_build_check:
+  os_build:
     uses: phpolar/github-workflows/.github/workflows/os-build-check.yml@v1
