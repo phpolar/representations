@@ -5,15 +5,12 @@ declare(strict_types=1);
 namespace Phpolar\Http\Representations;
 
 use PhpCommonEnums\MimeType\Enumeration\MimeTypeEnum as MimeType;
-use PhpContrib\Http\Representation\RepresentationInterface;
 use PHPUnit\Framework\Attributes\CoversClass;
-use PHPUnit\Framework\Attributes\CoversClassesThatImplementInterface;
 use PHPUnit\Framework\Attributes\TestDox;
 use PHPUnit\Framework\Attributes\TestWith;
 use PHPUnit\Framework\TestCase;
 
 #[CoversClass(JsonRepresentation::class)]
-#[CoversClassesThatImplementInterface(RepresentationInterface::class)]
 final class JsonRepresentationTest extends TestCase
 {
     #[TestDox("Shall return the serialized result of the request processor")]
