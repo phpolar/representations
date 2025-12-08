@@ -128,16 +128,16 @@
         },
         {
             "name": "phpolar/serializers",
-            "version": "1.0.7",
+            "version": "1.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpolar/serializers.git",
-                "reference": "63687b2f5c02abe387dc02517791d6eb27435ccf"
+                "reference": "3f1987aa671cc710e0ac214c3776a3964ac89870"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpolar/serializers/zipball/63687b2f5c02abe387dc02517791d6eb27435ccf",
-                "reference": "63687b2f5c02abe387dc02517791d6eb27435ccf",
+                "url": "https://api.github.com/repos/phpolar/serializers/zipball/3f1987aa671cc710e0ac214c3776a3964ac89870",
+                "reference": "3f1987aa671cc710e0ac214c3776a3964ac89870",
                 "shasum": ""
             },
             "require": {
@@ -168,9 +168,9 @@
             "description": "A set of serializers",
             "support": {
                 "issues": "https://github.com/phpolar/serializers/issues",
-                "source": "https://github.com/phpolar/serializers/tree/1.0.7"
+                "source": "https://github.com/phpolar/serializers/tree/1.0.8"
             },
-            "time": "2025-12-05T00:01:56+00:00"
+            "time": "2025-12-05T00:35:21+00:00"
         }
     ],
     "packages-dev": [
