@@ -54,16 +54,16 @@
         },
         {
             "name": "php-contrib/http-representation",
-            "version": "1.0.3",
+            "version": "1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-contrib/http-representation.git",
-                "reference": "588fec0658bac7a829c9e69f04ed4ada6ddce51f"
+                "reference": "dee31e35cc00bd5eaea4c76d6007c8ee397f7867"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-contrib/http-representation/zipball/588fec0658bac7a829c9e69f04ed4ada6ddce51f",
-                "reference": "588fec0658bac7a829c9e69f04ed4ada6ddce51f",
+                "url": "https://api.github.com/repos/php-contrib/http-representation/zipball/dee31e35cc00bd5eaea4c76d6007c8ee397f7867",
+                "reference": "dee31e35cc00bd5eaea4c76d6007c8ee397f7867",
                 "shasum": ""
             },
             "require": {
@@ -85,9 +85,9 @@
             "description": "Supports HTTP resource representation interoperability",
             "support": {
                 "issues": "https://github.com/php-contrib/http-representation/issues",
-                "source": "https://github.com/php-contrib/http-representation/tree/1.0.3"
+                "source": "https://github.com/php-contrib/http-representation/tree/1.0.4"
             },
-            "time": "2025-06-30T01:38:48+00:00"
+            "time": "2025-12-05T00:07:44+00:00"
         },
         {
             "name": "php-contrib/serializer",
