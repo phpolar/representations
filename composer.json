@@ -9,7 +9,7 @@
   },
   "require-dev": {
     "phan/phan": "^5.4 || ^6.0",
-    "phpmd/phpmd": "^2.15",
+    "phpmd/phpmd": "^2.15 || ^3.0",
     "phpstan/phpstan": "^2.1",
     "phpunit/phpunit": "^12.2",
     "php-coveralls/php-coveralls": "^2.8",
